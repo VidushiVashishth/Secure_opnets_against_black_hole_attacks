@@ -8,7 +8,10 @@ simulations interactively in real-time and results after their completion.
 
 Modifications
 =============
-This codebase contains modifications to the ONE v1.5.0 code to incorporate the simulation of the security protocol presented in the reseach paper "A fuzzy logic and game theory based adaptive approach for securing opportunistic networks against black hole attacks", published in International Journal of Communication Systems.
+This codebase contains modifications to the ONE v1.5.0 code to incorporate
+the simulation of the security protocol presented in the reseach paper
+"A fuzzy logic and game theory based adaptive approach for securing opportunistic
+networks against black hole attacks", published in International Journal of Communication Systems.
 
 Quick start
 ===========
