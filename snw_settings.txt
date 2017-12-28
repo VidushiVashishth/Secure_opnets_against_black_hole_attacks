@@ -1,0 +1,12 @@
+Scenario.name = SprayAndWait
+Group.router = SprayAndWaitRouter
+SprayAndWaitRouter.nrofCopies = 10
+SprayAndWaitRouter.binaryMode = true
+SprayAndWaitRouter.initialEnergy = 50
+SprayAndWaitRouter.scanEnergy = 1
+SprayAndWaitRouter.scanResponseEnergy = 1
+SprayAndWaitRouter.transmitEnergy = 5
+SprayAndWaitRouter.baseEnergy = 10
+SprayAndWaitRouter.energyWarmup = 10
+
+
